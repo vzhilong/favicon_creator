@@ -1,4 +1,4 @@
-package com.stupid.lab.favicon;
+package com.stupid.lab.favicon_generator;
 
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
